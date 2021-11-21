@@ -8,7 +8,8 @@
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
+<p align="center">Enthusiastic Software Engineer since 2013 using VueJs, NuxtJs and Tailwindcss 💙</p>
+<p align="center">Really love web technologies and passionnate to discover all of them 🚀</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
