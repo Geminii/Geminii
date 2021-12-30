@@ -19,6 +19,9 @@
   <a href="https://github.com/Geminii/kanban-app">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Geminii&repo=kanban-app&theme=material-palenight" />
   </a>
+  <a href="https://github.com/Geminii/crappo-crypto">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Geminii&repo=crappo-crypto&theme=material-palenight" />
+  </a>
   <a href="https://github.com/Geminii/nuxtjs-dashboard">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Geminii&repo=nuxtjs-dashboard&theme=material-palenight" />
   </a>
