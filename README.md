@@ -16,6 +16,9 @@
 <br />
 
 <p align="center">
+   <a href="https://github.com/Geminii/github-discovery">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Geminii&repo=github-discovery&theme=material-palenight" />
+  </a>
   <a href="https://github.com/Geminii/kanban-app">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Geminii&repo=kanban-app&theme=material-palenight" />
   </a>
