@@ -39,8 +39,8 @@ Timezone: Europe/Paris (CEST)
 <br />
   
 - 🔭 I’m currently working on GraphQL 
-- 🌱 I’m currently learning Vue3
-- 👯 I’m looking to contribute on NuxtJs EcoSystem 💙
+- 🌱 I’m currently learning Vue3, ReactJs
+- 👯 I’m looking to contribute mainly on NuxtJs EcoSystem 💙
 - 💬 Ask me about anything
 - ⚡ Fun fact: Coding 🧑‍💻
 
